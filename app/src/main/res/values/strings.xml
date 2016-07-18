@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Auto Call Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="menu_Enable_record">Enable Record</string>
+    <string name="menu_Disable_record">Disable Record</string>
+    <string name="title_activity_main">Call recorder for android</string>
+    <string name="list_play_your_recordeed_call">play your recorded call</string>
+    <string name="list_send_your_recordeed_call">send your recorded call</string>
+    <string name="list_erase_your_recordeed_call">erase your recorded call</string>
+    <string name="receiver_start_call">Start record call</string>
+    <string name="receiver_end_call">End Record call</string>
+    <string name="confirm_delete_title">Call deletion</string>
+    <string name="confirm_delete_text">Are you sure you want to delete this recording?</string>
+    <string name="confirm_delete_yes">yes</string>
+    <string name="confirm_delete_no">no</string>
+    <string name="options_title">Recording options</string>
+    <string name="options_delete">Delete</string>
+    <string name="confirm_play">Play</string>
+    <string name="confirm_send">Send</string>
+    <string name="sendMail_subject">Your record from your phone</string>
+    <string name="sendMail_body">This is a call record from your phone</string>
+    <string name="about_title">About</string>
+    <string name="about_content">Call recorder by Kobi Krasnoff and Raul Robledo</string>
+    <string name="about_close_button">Close</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="withheld_number">Withheld Number</string>
+    <string name="menu_record_is_now_enabled">Call recording enabled</string>
+    <string name="menu_record_is_now_disabled">Call recording disabled</string>
+    <string name="no_records_message">There are no recordings in this phone.\nTo enable record ability open the main menu and choose \"Enable call recording\".\nAfter that the application will record all your incoming and outgoing calls.</string>
+    <string name="radio_Enable_record">Enable call recording</string>
+    <string name="radio_Disable_record">Disable call recording</string>
+    <string name="textview_startup">Please choose if the application should record your calls.\nYou can always enable or disable recording by pressing the Android menu button.</string>
+    <string name="dialog_welcome_screen">Welcome Screen</string>
+    <string name="dialog_no_memory">There is no memory card in your device.\nPlease install one.</string>
+    <string name="dialog_close">Close</string>
+    <string name="menu_terms">Terms of use</string>
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="dialog_terms">Terms of use</string>
+    <string name="dialog_privacy">Privacy Policy</string>
+    <string name="dialog_privacy_terms">Please click the buttons below to see the terms of use and privacy policy</string>
+    <string name="menu_delete_all">Delete All recordings</string>
+    <string name="dialog_delete_all_title">Delete everything?</string>
+    <string name="dialog_delete_all_content">Are you sure you want to delete all of your recordings?</string>
+    <string name="dialog_delete_all_yes">Yes</string>
+    <string name="dialog_delete_all_no">No</string>
+    <string name="notification_ticker">Recording is now Starting</string>
+    <string name="notification_title">The phone is now on a call</string>
+    <string name="notification_text">If recording was enabled, recording should have started, if not you can enable recording in the application, the phone will stop the recording when the conversation ends</string>
+    <string name="record_impossible">Unfortunately, it is not possible to record calls in this device. (Usually because another application/service is using the microphone in the background)</string>
+
+
+
+
+
+
+    ///
+
+    <!-- Strings related to recording service -->
+    <string name="service_notification_recording">Recording </string>
+    <string name="service_notification_call_recorded">Call was recorded </string>
+
+    <!-- Strings related to launcher antivity -->
+    <string name="launcher_main_text">You should contact lawyer before using this app</string>
+    <string name="title_activity_launcher">Law Notes</string>
+
+    <!-- Strings related to Nothing -->
+    <string name="cancel">Cancel</string>
+    <string name="selected">Selected: %1$d</string>
+
+
+
+    <string name="usermanual">User Guide</string>
+	<string name="manual">
+	    1.If you click the Enable box, the service will be run on background.\n2.Recording format set like amar/mp4 etc.\n3.Save recording file path selection.\n4. Show notification setting set to during call or after call.
+	    </string>
+    <string name="app">Developer Information</string>
+	<string name="develop">
+	    This Application is developed by Umme Tahera Huda and Shipu Shikder
+	</string>
+    <string name="supervision"><u>Supervised by :</u>  Md. Monir Hossain</string>
+    <string name="org"><b>Organization :</b> Dhaka City Collage </string>
+    <string name="TODO">todo</string>
+    <string name="startup">Please choose if the application should record your calls.\nYou can always enable or disable recording.</string>
+
+
+
+    //answer
+
+    <string name="enabled">Enabled?</string>
+    <string name="which_contacts">Answer Which Calls?</string>
+    <string name="delay">Delay Before Answer?</string>
+    <string name="use_speakerphone">Force Speakerphone?</string>
+    <string name="headset_only">Only Using BT Headset?</string>
+    <string name="no_second_call">Don\'t Answer if In Call?</string>
+    <string name="about_message">AutoAnswer Version 1.5\nCopyright (c) 2010 EverySoft\n\nA simple Android application that automatically answers incoming calls.\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.\n\nChanges:\n1.5 - new answer routine should support more phones (thanks to Tedd\'s Droid Tools!)\n\n1.4 - added notification bar icon\n\n1.3 - added experimental BT headset detection\n\n1.2 - added support for froyo and the ability to ignore calls when there is already a call in process (ignore second call)\n\n1.1 - added configurable delay before answer\n\n1.0 - initial release</string>
+    <string name="license_title">License</string>
+    <string name="license_message"><![CDATA[GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007\n\nCopyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\n\nPreamble\n\nThe GNU General Public License is a free, copyleft license for software and other kinds of works.\n\nThe licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the software, and you are welcome to redistribute it under certain conditions; type `show c\' for details.\n\nThe hypothetical commands `show w\' and `show c\' should show the appropriate parts of the General Public License. Of course, your program\'s commands might be different; for a GUI interface, you would use an \"about box\".\n\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a \"copyright disclaimer\" for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <http://www.gnu.org/licenses/>.\n\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <http://www.gnu.org/philosophy/why-not-lgpl.html>.]]></string>
+    <string name="notification_titleee">AutoAnswer enabled</string>
+    <string name="notification_textee">Select to configure or disable.</string>
+
+
+</resources>

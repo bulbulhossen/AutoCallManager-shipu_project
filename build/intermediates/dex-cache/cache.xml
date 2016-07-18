@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/com.android.support-design-23.2.1_7c4c708d5d8b14095dfa46f31c9e8ccd5a9d146c.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.1_9fa243201b6bce53061082f0993a7203f922f49a.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.2.1_741baac8378fe3aaa694d8d3200514bf05d7a388.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.1_acd3371c3f42c0139853898ab4d838bee644d4a7.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.1_c830eb7b3d02acf7ba505aa1ebae42de21c02280.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.1_91a8807df8aca4ca1ec59f6ae7d6b3e51fb1b7cd.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_c390d85daf6ee4de8526cab961226d6f0fe04837.jar" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/bulbulhossen/Desktop/meglag/CallRecorder-master/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_61afec1ca34287e82285fd134c85675c0153e2dd.jar" />
+    </item>
+
+</items>
